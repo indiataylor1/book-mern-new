@@ -1,7 +1,7 @@
 ## Table of Contents
 
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
+2. [Heroku Link](#heroku-link)
 3. [Installation](#installation)
 4. [User Story](#user-story)
 5. [FAQs](#faqs)
@@ -16,13 +16,11 @@ This week, you’ll take a fully functioning Google Books API search engine buil
 
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 
-## Technologies
+## Heroku Link
 
 ---
 
-A list of technologies used within the project:
-
-- [Apollo]: Version 2.15.0
+This is the deployed Heroku Link >> https://polar-journey-17487.herokuapp.com/
 
 ## Installation
 
